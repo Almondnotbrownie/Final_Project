@@ -2,7 +2,7 @@ de:
   layouts:
     application:
       home_link: "Zuhause"
-     history_link: "Geschichte"
+      history_link: "Geschichte"
       dynamic_blog_link: " Finden Sie verlorene Samoyed"
 
       food_link: "Lebensmittel"
